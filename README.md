@@ -59,12 +59,12 @@ Soy estudiante en desarrollo de software, la nube, la Inteligencia Artificial y 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ccaisadev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccaisadev&layout=compact&theme=radical&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ccaisadev&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="Estadísticas generales" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccaisadev&amp;layout=compact&amp;theme=radical&amp;hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccaisadev&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccaisadev&amp;theme=radical&amp;hide_border=true" alt="Racha de contribuciones" />
 </p>
 
 ---
