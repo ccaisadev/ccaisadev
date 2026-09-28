@@ -10,7 +10,7 @@
 ---
 
 ### 💻 Sobre mí
-Soy un apasionado del desarrollo de software, la nube, la Inteligencia Artificial y el Big Data, especializándome en estas áreas para crear soluciones inteligentes, arquitecturas cloud eficientes y canalizaciones de datos avanzadas. Me encanta construir soluciones escalables, aprender continuamente y explorar nuevas tecnologías en el ecosistema tecnológico.
+Soy estudiante en desarrollo de software, la nube, la Inteligencia Artificial y el Big Data, especializándome en estas áreas para crear soluciones inteligentes, arquitecturas cloud eficientes y canalizaciones de datos avanzadas. Me encanta construir soluciones escalables, aprender continuamente y explorar nuevas tecnologías en el ecosistema tecnológico.
 
 ---
 
