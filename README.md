@@ -1,4 +1,6 @@
-<h1 align="center">¡Hola, bienvenid@ a mi perfil! 🚀</h1>
+<p align="center">
+  <img src="Banner_bienvenida" alt="Banner de bienvenida" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ccaisadev&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitor Count" />
@@ -8,7 +10,7 @@
 ---
 
 ### 💻 Sobre mí
-Soy estudiante en Desarrollo de Aplicaciones Web, la nube y los datos, con experiencia en la creación de aplicaciones web, arquitectura cloud y canalizaciones de Big Data. Me encanta construir soluciones eficientes, aprender continuamente y explorar nuevas tecnologías en el ecosistema tecnológico.
+Soy un apasionado del desarrollo de software, la nube, la Inteligencia Artificial y el Big Data, especializándome en estas áreas para crear soluciones inteligentes, arquitecturas cloud eficientes y canalizaciones de datos avanzadas. Me encanta construir soluciones escalables, aprender continuamente y explorar nuevas tecnologías en el ecosistema tecnológico.
 
 ---
 
@@ -28,12 +30,13 @@ Soy estudiante en Desarrollo de Aplicaciones Web, la nube y los datos, con exper
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### ☁️ Cloud, Big Data & Bases de Datos
+#### ☁️ Cloud, Big Data, IA & Bases de Datos
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F61?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 #### ⚙️ Herramientas & Control de Versiones
@@ -49,7 +52,7 @@ Soy estudiante en Desarrollo de Aplicaciones Web, la nube y los datos, con exper
 <p align="center">
   <img src="https://img.shields.io/badge/Proyectos-Próximamente%20en%20Construcción-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="En construcción" />
 </p>
-<p align="center"><em>🛠️ Actualmente estoy desarrollando y puliendo nuevos proyectos que publicaré muy pronto por aquí. ¡Mantente atento!</em></p>
+<p align="center"><em>🛠️ Actualmente estoy desarrollando y puliendo nuevos proyectos orientados a desarrollo, IA y Big Data que publicaré muy pronto por aquí. ¡Mantente atento!</em></p>
 
 ---
 
