@@ -10,7 +10,7 @@
 ---
 
 ### 💻 Sobre mí
-Desarrollador Full-Stack especializándome en Big Data e Inteligencia Artificial, actualmente aplicando tecnología y datos como **CX & Transformation Intern en Axpo Iberia** para digitalizar procesos y transformar problemas complejos en soluciones limpias y escalables.
+Desarrollador Full-Stack especializándome en Big Data e Inteligencia Artificial, actualmente aplicando tecnología y datos como **CX & Digital Transformation en Axpo Iberia** para digitalizar procesos y transformar problemas complejos en soluciones limpias y escalables.
 
 Mi trayectoria es atípica y es mi mayor fortaleza: vengo de una sólida base universitaria en Química e Ingeniería que forjó mi pensamiento analítico, y de varios años de experiencia real gestionando negocios propios y liderando equipos bajo presión. Este bagaje me permite no solo escribir código o entrenar modelos, sino entender el impacto real que tiene la tecnología en el cliente y en la operativa del negocio.
 
