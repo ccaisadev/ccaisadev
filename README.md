@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_github_ccaisadev.svg" alt="Banner de bienvenida ccaisadev" width="100%" />
+  <img src="banner_github_ccaisadev.png" alt="Banner de bienvenida ccaisadev" width="100%" />
 </p>
 
 <p align="center">
