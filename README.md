@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ccaisadev&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitor Count" />
-  <img src="https://img.shields.io/badge/Role-CX%20%26%20Transformation%20Intern%20%40%20Axpo%20Iberia-0e75b6?style=flat" alt="Current Role" />
+  <img src="https://img.shields.io/badge/Role-CX%20%26%20Digital%20Transformation%20%40%20Axpo%20Iberia-0e75b6?style=flat" alt="Current Role" />
 </p>
 
 ---
